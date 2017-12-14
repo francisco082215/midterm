@@ -1,0 +1,8 @@
+step1 : open git bash	
+step2 : change the current directory to your local project
+step3 : initialize the local directory to your git repository
+step3 :	git init
+step4 :	git add
+step5 :	git reset HEAD francisco
+step6 :	git commit -m "midterm"
+step7 :	git push origin master
