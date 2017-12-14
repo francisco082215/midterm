@@ -1,0 +1,11 @@
+Firstname:	Rogelio Jr
+Middlename:	Temple
+Lastname:	Francisco
+Address:	P-8 Badiangon, Ampayon,Butuan City
+Birthdate:	July 17,1998
+Age:		19
+Status:		Single
+Gender:		Male
+Course:		BSIT
+Year:		3rd
+School:		Agusan College Incorpotared
